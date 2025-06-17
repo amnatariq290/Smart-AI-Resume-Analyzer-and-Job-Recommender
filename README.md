@@ -2,9 +2,7 @@
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
-  <!-- Badges -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+ 
 An advanced resume parser and analyzer with job domain prediction, resume scoring, course recommendations, and admin dashboard.
 </div>
 
