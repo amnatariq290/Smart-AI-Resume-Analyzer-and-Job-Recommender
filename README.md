@@ -2,7 +2,7 @@
 
 An advanced resume parser and analyzer with job domain prediction, resume scoring, course recommendations, and admin dashboard.
 ## Screenshot
-"C:\Users\hp\Downloads\ai_resume_analyzer\Screenshot 2025-06-17 185556.png"
+"![image](https://github.com/user-attachments/assets/4b832c70-9b42-4822-a1b8-5cc2b343ff9d)"
 ## Features
 - NLP-based resume parsing
 - Career role prediction
