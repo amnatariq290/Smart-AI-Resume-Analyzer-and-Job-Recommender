@@ -15,6 +15,7 @@
 
 An advanced resume parser and analyzer with job domain prediction, resume scoring, course recommendations, and admin dashboard.
 </div>
+
 ## Screenshots
 "![image](https://github.com/user-attachments/assets/4b832c70-9b42-4822-a1b8-5cc2b343ff9d)"
 ## Features
