@@ -1,0 +1,7 @@
+streamlit
+pdfminer.six
+pandas
+nltk
+spacy
+plotly
+mysql-connector-python
