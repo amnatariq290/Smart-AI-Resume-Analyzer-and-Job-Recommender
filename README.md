@@ -17,7 +17,9 @@ An advanced resume parser and analyzer with job domain prediction, resume scorin
 </div>
 
 ## Screenshots
+**Main Screen**
 ![image](https://github.com/user-attachments/assets/4b832c70-9b42-4822-a1b8-5cc2b343ff9d)
+**User Dashboard**
 ![image](https://github.com/user-attachments/assets/fa8ee629-568b-4f08-990f-3bf605c2a77f)
 
 ## Features
